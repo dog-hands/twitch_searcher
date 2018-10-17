@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.6.1",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "twitch": "^1.0.2",
+    "twitch-helix": "^1.0.7"
   }
 }
